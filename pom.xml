@@ -92,6 +92,7 @@
         <awaitility.version>4.2.0</awaitility.version>
 
         <!-- jhipster-needle-maven-property -->
+        <sonar.host.url>http://10.10.2.109:9000</sonar.host.url>
     </properties>
 
     <dependencyManagement>
